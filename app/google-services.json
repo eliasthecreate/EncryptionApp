@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1073887967565",
+    "project_id": "encryptionapp-c6740",
+    "storage_bucket": "encryptionapp-c6740.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073887967565:android:fa870e3ee743f382a1df04",
+        "android_client_info": {
+          "package_name": "com.example.encryptionapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqr-MuYkc78Y8wANuvmwy8hAIQVx2eLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
